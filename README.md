@@ -1,7 +1,16 @@
 ### Hi there 👋
+I am a B.Tech student .
+Programming languages which I know:
+1) C++
+2) Python
+3) Tensorflow, Pytorch
 
+Other skills:
+HTML, CSS, DataStructures and algorithms, AI, ML
+
+📫You can reach me at:
+musheeraj@gmail.com 
 <!--
-**COsuDheER/COsuDheER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
